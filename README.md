@@ -61,10 +61,10 @@ width="200" height="200"></a>
 width="200" height="200"></a>
 </body>
 </html>
-
 ## OUTPUT
 
-[WDIA EX NO 4 OUTPUT.pdf](https://github.com/JosephselwinJ/Ex04_Web-Design/files/11324834/WDIA.EX.NO.4.OUTPUT.pdf)
+[WDIA EX NO 4 OUTPUT.pdf](https://github.com/Akshayaprabha/Ex04_Web-Design/files/11325036/WDIA.EX.NO.4.OUTPUT.pdf)
+
 
 ## RESULT
  Images as hyperlinks is implemented successfully.
