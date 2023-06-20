@@ -26,44 +26,9 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-<html>
 
-
-<body>
-<h1>Horticulture</h1>
-<a href="https://www.canr.msu.edu/hrt/about-us/horticulture_is#:~:text=Horticulture%20is%20the%20science%20and,Decorative%20indoor%20plants%20and">
-<img src="001.JPG"
-width="200" height="200"></a>
-<br>
-<br>
-<h1>Irrigation</h1>
-<a href="https://en.wikipedia.org/wiki/Irrigation#:~:text=Irrigation%20(also%20referred%20to%20as,many%20cultures%20around%20the%20world.">
-<img src="002.JPG"  width="200" height="200"></a>
-<br>
-<br>
-<h1>Apiculture</h1>
-<a href="https://www.nal.usda.gov/animal-health-and-welfare/beekeeping#:~:text=Apiculture%20%2D%20the%20maintenance%20of%20honeybees,of%20bees%20to%20other%20beekeepers.">
-<img src="003.JPG"
-width="200" height="200"></a>
-<br>
-<br>
-<br>
-<h1>Fertilizer</h1>
-<a href="https://www.epa.gov/agriculture/agriculture-nutrient-management-and-fertilizer">
-<img src="004.JPG"
-width="200" height="200"></a>
-<br>
-<br>
-<br>
-<h1>Harvester</h1>
-<a href="https://www.tractorjunction.com/tractor-combine-harvesters/#:~:text=Harvester%20is%20a%20multipurpose%20farming,helps%20to%20generate%20higher%20income.">
-<img src="005.JPG"
-width="200" height="200"></a>
-</body>
-</html>
 ## OUTPUT
 
-[WDIA EX NO 4 OUTPUT.pdf](https://github.com/Akshayaprabha/Ex04_Web-Design/files/11325036/WDIA.EX.NO.4.OUTPUT.pdf)
 
 
 ## RESULT
